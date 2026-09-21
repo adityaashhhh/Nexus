@@ -1,0 +1,14 @@
+# Spottr Sentiment Microservice — Dependencies
+transformers
+datasets
+accelerate
+evaluate
+torch
+numpy
+scipy
+fastapi
+uvicorn
+python-multipart
+httpx
+requests
+tqdm

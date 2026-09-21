@@ -1,0 +1,16 @@
+# Spottr OCR Microservice — Dependencies
+easyocr
+fastapi
+uvicorn
+python-multipart
+httpx
+opencv-python
+opencv-python-headless
+numpy
+pillow
+scipy
+shapely
+pyclipper
+ninja
+pyyaml
+python-bidi

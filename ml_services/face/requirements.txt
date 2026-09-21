@@ -1,0 +1,22 @@
+# Spottr Face Verification Microservice — Dependencies
+torch
+torchvision
+facenet-pytorch
+insightface
+onnxruntime
+onnx
+opencv-python
+opencv-contrib-python
+scikit-learn
+scikit-image
+matplotlib
+mediapipe
+numpy
+pillow
+scipy
+fastapi
+uvicorn
+python-multipart
+httpx
+requests
+tqdm
